@@ -1,7 +1,7 @@
     // typing text animation script
     var typed = new Typed(".typing", {
-        strings: ["Developer", "Blogger", "Designer", "Freelancer","TheAppWizard"],
-        typeSpeed: 100,
+        strings: ["Front end Developer","Freelancer","Blogger y youtuber de tecnología "],
+        typeSpeed: 90,
         backSpeed: 60,
         cursorChar: ' |',
         smartBackspace: true,

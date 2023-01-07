@@ -52,6 +52,36 @@
   color: white;
 }
 /* --------------YOUTUBE--------------------------------------- */
+/* --------------TWITCH--------------------------------------- */
+
+.links-twitch{
+  text-align: center;
+  margin-top: 20px;
+  padding: 20px;
+  border:  solid white;
+  border-width: 0.5px;
+  width: 290px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+  font-size: 15px;
+}
+
+.links-twitch:hover{
+  text-align: center;
+  margin-top: 20px;
+  padding: 20px;
+  background: #6441a5 ;
+  width: 290px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+  font-size: 15px;
+  color: white;
+}
+/* --------------TWITCH--------------------------------------- */
 
 
 /* --------------GITHUB--------------------------------------- */
